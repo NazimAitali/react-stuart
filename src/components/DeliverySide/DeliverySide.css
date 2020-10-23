@@ -1,0 +1,7 @@
+.delivrey-side-container {
+  background-color: #1e75e7;
+  flex: 2;
+  height: 200vh;
+  flex-direction: column;
+  justify-content: flex-start;
+}
